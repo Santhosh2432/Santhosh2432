@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a15c,100:5ad4e6&height=220&section=header&text=Santhosh%20Kumar%20M.R&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a15c,100:5ad4e6&height=220&section=header&text=Santhosh%20Kumar%20M.R&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20and%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=5AD4E6&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems+that+ship.;RAG+pipelines+%7C+Agentic+AI+%7C+Computer+Vision;React+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+Azure;Currently%3A+AI+%26+Drone+Intern+%40+Garuda+Aerospace" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=5AD4E6&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems+that+ship.;RAG+pipelines+%7C+Agentic+AI+%7C+Computer+Vision;React+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+Azure;Completed%3A+AI+and+Drone+Intern+%40+Garuda+Aerospace" alt="Typing SVG" />
 </a>
 
 <br/>
