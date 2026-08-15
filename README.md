@@ -10,7 +10,7 @@
 
 <a href="mailto:santhoshkumar243276@gmail.com"><img src="https://img.shields.io/badge/Email-e8a15c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/santhosh-kumar-738b83275"><img src="https://img.shields.io/badge/LinkedIn-5ad4e6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://santhosh2432.github.io"><img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=firefox&logoColor=e8a15c"/></a>
+<a href=" https://santhosh2432.github.io/portfolio "><img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=firefox&logoColor=e8a15c"/></a>
 <a href="tel:+919344798857"><img src="https://img.shields.io/badge/Phone-08090b?style=for-the-badge&logo=whatsapp&logoColor=5ad4e6"/></a>
 
 </div>
