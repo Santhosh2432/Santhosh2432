@@ -8,9 +8,9 @@
 
 <br/>
 
+<a href="https://portfolio-new-sand-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=vercel&logoColor=5ad4e6"/></a>
 <a href="mailto:santhoshkumar243276@gmail.com"><img src="https://img.shields.io/badge/Email-e8a15c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/santhosh-kumar-738b83275"><img src="https://img.shields.io/badge/LinkedIn-5ad4e6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://santhosh2432.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=firefox&logoColor=e8a15c"/></a>
 <a href="tel:+919344798857"><img src="https://img.shields.io/badge/Phone-08090b?style=for-the-badge&logo=whatsapp&logoColor=5ad4e6"/></a>
 
 </div>
@@ -60,7 +60,7 @@ Aspiring AI Engineer and Full-Stack Developer with hands-on experience building 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [AI Automated Infographic Video Generator](https://github.com/Santhosh2432/AI_Automated_Infographic-Advertisment_Video_Generator)
+### [AI Automated Infographic Video Generator](https://github.com/Santhosh2432/AI_Automated_Infographic-Advertisment_Video_Generator)
 Generates infographic videos automatically from raw documents using Azure OpenAI, DALL·E & AI Speech.
 
 `Python` `FastAPI` `React.js` `Azure AI` `OAuth`
@@ -68,7 +68,7 @@ Generates infographic videos automatically from raw documents using Azure OpenAI
 </td>
 <td width="50%" valign="top">
 
-### 💪 [Saiyan Fit — AI Fitness App](https://github.com/Santhosh2432/Saiyan_fit)
+### [Saiyan Fit — AI Fitness App](https://github.com/Santhosh2432/Saiyan_fit)
 Full-stack AI fitness app with real-time coaching via Groq API (Llama 3), offline-first support.
 
 `Flutter` `FastAPI` `MongoDB` `Azure Blob` `Groq API`
@@ -78,7 +78,7 @@ Full-stack AI fitness app with real-time coaching via Groq API (Llama 3), offlin
 <tr>
 <td width="50%" valign="top">
 
-### 📄 DocAgent
+### [DocAgent](https://github.com/Santhosh2432/DocAgent)
 Full-stack RAG system with Groq Llama 3.3 70B + MiniLM embeddings for source-grounded QA, with MCP-powered agentic workflows.
 
 `MCP` `RAG` `FastAPI` `React.js` `Groq API`
@@ -86,7 +86,7 @@ Full-stack RAG system with Groq Llama 3.3 70B + MiniLM embeddings for source-gro
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ [CrackScope](https://github.com/Santhosh2432/CrackScope)
+### [CrackScope](https://github.com/Santhosh2432/CrackScope)
 AI-powered structural inspection platform — custom YOLOv8 models hitting 91% mAP@50 for crack & window detection.
 
 `YOLOv8` `Google Colab` `FastAPI` `React.js` `OpenCV`
@@ -120,8 +120,8 @@ AI-powered structural inspection platform — custom YOLOv8 models hitting 91% m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santhosh2432&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ad4e6&icon_color=e8a15c&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh2432&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ad4e6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santhosh2432&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ad4e6&icon_color=e8a15c&text_color=c9d1d9&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh2432&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ad4e6&text_color=c9d1d9&cache_seconds=86400" />
 
 <br/>
 
@@ -132,6 +132,8 @@ AI-powered structural inspection platform — custom YOLOv8 models hitting 91% m
 <img src="https://github-profile-trophy.vercel.app/?username=Santhosh2432&theme=tokyonight&no-frame=true&margin-w=12&column=7" />
 
 </div>
+
+> **Note:** If any card above shows "Something went wrong" or fails to load, it's a known issue with the free public `github-readme-stats.vercel.app` instance hitting GitHub's shared API rate limit — not a problem with this file. It usually resolves on its own within an hour. For a permanent fix, deploy your own free instance at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the URL above with your instance's URL.
 
 <br/>
 
@@ -148,6 +150,7 @@ AI-powered structural inspection platform — custom YOLOv8 models hitting 91% m
 
 ### Let's build something worth shipping.
 
+<a href="https://portfolio-new-sand-theta.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-5ad4e6?style=for-the-badge&logoColor=white"/></a>
 <a href="mailto:santhoshkumar243276@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-e8a15c?style=for-the-badge&logoColor=white"/></a>
 
 <br/><br/>
