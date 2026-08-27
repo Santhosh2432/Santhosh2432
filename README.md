@@ -120,20 +120,11 @@ AI-powered structural inspection platform — custom YOLOv8 models hitting 91% m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santhosh2432&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ad4e6&icon_color=e8a15c&text_color=c9d1d9&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh2432&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ad4e6&text_color=c9d1d9&cache_seconds=86400" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Santhosh2432&theme=tokyonight&hide_border=true&background=0D1117&ring=e8a15c&fire=5ad4e6&currStreakLabel=5ad4e6" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Santhosh2432&theme=tokyonight&no-frame=true&margin-w=12&column=7" />
+<a href="https://github.com/Santhosh2432?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Santhosh2432&label=Public%20Repos&query=$.public_repos&color=5ad4e6&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Santhosh2432?tab=followers"><img src="https://img.shields.io/github/followers/Santhosh2432?label=Followers&style=for-the-badge&color=e8a15c&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Santhosh2432"><img src="https://img.shields.io/github/last-commit/Santhosh2432/Netflix_portfolio-main?label=Last%20Commit&style=for-the-badge&color=5ad4e6&logo=github&logoColor=white"/></a>
 
 </div>
-
-> **Note:** If any card above shows "Something went wrong" or fails to load, it's a known issue with the free public `github-readme-stats.vercel.app` instance hitting GitHub's shared API rate limit — not a problem with this file. It usually resolves on its own within an hour. For a permanent fix, deploy your own free instance at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the URL above with your instance's URL.
 
 <br/>
 
